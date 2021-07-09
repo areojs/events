@@ -20,7 +20,7 @@ class EventEmitter {
     if(!this._events.has(event)) return null;
     
     return this._events.get(event)
-    .call(this, args);
+    .apply(this, args);
     
   }
 }

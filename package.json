@@ -1,6 +1,6 @@
 {
   "name": "@areojs/events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "events.js",
   "scripts": {},
   "keywords": [
