@@ -1,0 +1,15 @@
+{
+  "name": "@areojs/events",
+  "version": "1.0.0",
+  "main": "events.js",
+  "scripts": {},
+  "keywords": [
+    "areo",
+    "areojs",
+    "eventemitter",
+    "events"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
